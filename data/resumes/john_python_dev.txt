@@ -1,0 +1,17 @@
+John Doe
+Email: john.doe@email.com
+Position: Senior Python Developer
+
+Skills:
+- Python, Django, Flask, FastAPI
+- PostgreSQL, MySQL, Redis, MongoDB
+- Docker, Kubernetes, AWS (S3, EC2, ECS)
+- CI/CD, Git, GitHub Actions
+
+Experience:
+- Senior Software Engineer at TechCorp (2022 - Present)
+  Developed and maintained microservices using Python and FastAPI.
+  Migrated legacy Django application to a modern serverless architecture on AWS.
+- Python Developer at WebSolutions (2020 - 2022)
+  Built RESTful APIs and backend services using Flask and Django.
+  Optimized SQL queries, improving application performance by 35%.

@@ -1,0 +1,8 @@
+chromadb==1.0.15
+sentence-transformers==5.0.0
+pypdf==5.7.0
+streamlit==1.47.0
+torch
+python-docx
+langchain
+langchain-text-splitters

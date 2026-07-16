@@ -1,0 +1,18 @@
+Alex Smith
+Email: alex.smith@email.com
+Position: Java Developer
+
+Skills:
+- Java, Spring Boot, Spring MVC, Hibernate
+- Microservices, RESTful APIs, SOAP
+- Maven, Gradle, Jenkins, Git
+- PostgreSQL, Oracle DB, Hibernate
+- Docker, Azure
+
+Experience:
+- Java Developer at EnterpriseCorp (2021 - Present)
+  Developed enterprise-grade web applications using Java and Spring Boot.
+  Designed microservice architecture with Eureka, Spring Cloud Gateway, and Config Server.
+- Junior Java Developer at CodeFlow (2019 - 2021)
+  Maintained codebase for Java EE legacy systems.
+  Wrote unit and integration tests using JUnit and Mockito.

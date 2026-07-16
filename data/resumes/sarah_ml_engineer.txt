@@ -1,0 +1,18 @@
+Sarah Connor
+Email: sarah.c@email.com
+Position: Machine Learning Engineer
+
+Skills:
+- Python, R, SQL
+- TensorFlow, PyTorch, Keras, Scikit-Learn
+- NLP, HuggingFace, Transformers, BERT, LLMs
+- Pandas, NumPy, Matplotlib, Seaborn
+- Docker, AWS (SageMaker), Git
+
+Experience:
+- ML Engineer at BrainAI (2023 - Present)
+  Fine-tuned Large Language Models (LLMs) for domain-specific customer service chatbots.
+  Designed and deployed computer vision pipelines using TensorFlow and PyTorch.
+- Data Scientist at AnalyticsPro (2021 - 2023)
+  Built predictive models for customer churn and recommendation systems.
+  Analyzed large-scale datasets using SQL, Pandas, and PySpark.
